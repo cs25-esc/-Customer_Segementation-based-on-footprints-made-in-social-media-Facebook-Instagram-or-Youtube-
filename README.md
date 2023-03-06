@@ -30,3 +30,5 @@ for 20 clusters - then i have again used pca to reduce the dimensions and iterat
 for 20 clusters - then i have again used pca to reduce the dimensions and iterated over 1 to 15 pca components and observed that 2 components are giving the better results. with 3 clusters.
 
 the finally finalised 3 clusters with 2 pca components.
+
+ty
